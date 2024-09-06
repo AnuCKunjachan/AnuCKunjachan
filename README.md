@@ -1,4 +1,9 @@
-## Hi there 👋
+## Anu C K 👋
+### About me
+Working as Assistant prof in Saintgits
+
+Workshop attended
+-Faculty Development Program-*Instructional design for Py Pgm*
 
 <!--
 **AnuCKunjachan/AnuCKunjachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
